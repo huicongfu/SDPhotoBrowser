@@ -41,5 +41,16 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    
+    
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>App需要您的访问相册,以便您正常使用上传资料,更换头像,图片保存等服务.</string>
+    <key>NSRemindersUsageDescription</key>
+    <string>App需要您的同意,才能访问提醒事项</string>
+    
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>App需要您的同意,才能增加相片到您相册</string>
+
+    
 </dict>
 </plist>
